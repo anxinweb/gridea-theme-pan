@@ -1,5 +1,4 @@
-# gridea-theme-pan
-# gridea-theme-pan
+# Gridea主题 [Pan]
 
 感谢chiperman修改：[Chiperman.github.io](https://chiperman.github.io)
 </br>
